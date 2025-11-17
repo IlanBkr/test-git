@@ -1,2 +1,2 @@
-alert ("Je suis une nav")
+alert ("Je suis une botonne")
 alert ("Bonjour je suis moi")
